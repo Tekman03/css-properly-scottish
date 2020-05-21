@@ -1,6 +1,6 @@
-# css-properly
+# css-properly-scottish
 
-[PostCSS] plugin for people who prefer to write English properly.
+[PostCSS] plugin for people who prefer to write ~~English~~ Scots properly.
 
 [PostCSS]: https://github.com/postcss/postcss
 
@@ -14,7 +14,7 @@
 
 ## Supported translations:
 
-| From (Proper) | To (American) | Rationale |
+| From (Scots) | To (American) | Rationale |
 |---------------|---------------|-----------|
 | `colour` | `color` | There's a *u* in "colour" |
 | `centre` | `center` | It's spelled "centre" |
@@ -22,6 +22,9 @@
 | `padding-ton` | `padding-top` | When you're thinking of your favourite bear |
 | `z-index` | `z-index` | It's the same but it's pronounced "zed", not "zee" |
 | `behaviour` | `behavior` | Oh, behave! |
+| `backgroond` | `background` | |
+| `tap` | `top` | |
+
 
 Pull requests for further translations welcome!
 
