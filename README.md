@@ -19,7 +19,7 @@
 | `colour` | `color` | There's a *u* in "colour" |
 | `centre` | `center` | It's spelled "centre" |
 | `capitalise` | `capitalize` | Don't even get me started |
-| `padding-ton` | `padding-top` | When you're thinking of your favourite bear |
+| `padding-toon` | `padding-top` | I dinnae really ken whae that wee bear is |
 | `z-index` | `z-index` | It's the same but it's pronounced "zed", not "zee" |
 | `behaviour` | `behavior` | Oh, behave! |
 | `backgroond` | `background` | |
