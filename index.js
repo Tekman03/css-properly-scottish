@@ -5,7 +5,7 @@ module.exports = postcss.plugin('css-properly', () => {
     css.walkDecls(d => {
       d.prop = d.prop
         .replace('colour', 'color')
-        .replace('padding-ton', 'padding-top')
+        .replace('padding-toon', 'padding-top')
         .replace('behaviour', 'behavior')
       d.value = d.value
         .replace('centre', 'center')
